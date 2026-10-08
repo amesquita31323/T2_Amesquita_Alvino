@@ -15,3 +15,7 @@ Evaluación T2 - Lenguaje de Programación II - Control de versiones con Git (Pr
 ## Control de cambios
 
 Se realizaron modificaciones simultáneas en README.md, pom.xml y observaciones.txt para practicar el manejo del Working Directory, el Staging Area y el repositorio local.
+
+## Gestión de ramas
+
+Se utilizó la rama feature-amesquita para desarrollar de forma independiente la clase ControlVersion_Amesquita.java, que muestra en consola un mensaje de identificación del estudiante.
